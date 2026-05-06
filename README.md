@@ -1,29 +1,48 @@
-# 👋 Hi, I'm Priyanka Choudhury
+Hi, I'm Priyanka 👋
+Generative AI Engineer | LLM Applications | RAG Systems
 
-🌟 AI & Data Science Professional | 6+ Years of Experience  
-🧠 Currently pursuing **Generative AI Certification** from InGrade (Feb 2025 – Present)  
-💻 Skilled in Python, Pandas, NumPy, ML, EDA, and Prompt Engineering  
-🎯 Purpose-driven, spiritually grounded, and passionate about building impactful AI solutions
+I specialize in building production-grade Generative AI applications focused on:
 
----
+Retrieval-Augmented Generation (RAG)
+AI-Powered Document Intelligence
+Semantic Search Systems
+Conversational AI Applications
+FastAPI-based AI Services
+Prompt Engineering & Hallucination Reduction
+Tech Stack
+Generative AI & LLMs
+LangChain
+Hugging Face
+FAISS
+ChromaDB
+LlamaIndex
+Prompt Engineering
+Semantic Search
+Backend & APIs
+FastAPI
+Python
+REST APIs
+Docker
+ML & Data
+Scikit-learn
+NumPy
+SQL
+Tableau
+Featured Projects
+Enterprise Document Intelligence RAG Platform
 
-### 🚀 Featured Projects
+Production-ready RAG application for querying PDF and text documents using semantic retrieval and grounded response generation.
 
-| Project                          | Description                                                                 | Tech Stack |
-|----------------------------------|-----------------------------------------------------------------------------|------------|
-| [Customer Churn Prediction](https://github.com/priyanka1502-cod3/customer-churn-prediction) | Predicted telecom churn with 85% accuracy using ML models                | Python, Pandas, ML |
-| [Liver Disease Prediction](https://github.com/priyanka1502-cod3/liver-patient-prediction)  | Built models to detect liver disease and enhance patient analysis        | Logistic Regression, Random Forest |
-| [Insurance Claim Prediction](https://github.com/priyanka1502-cod3/insurance-claim-prediction) | Predicted claim likelihood with structured input data                    | ML, Random Forest |
+Legal AI Assistant using RAG
 
----
+Legal document intelligence platform leveraging FLAN-T5 and contextual retrieval for grounded legal response generation.
 
-### 🧠 Learning In Progress:
-- Prompt Engineering  
-- LLM Fine-Tuning  
-- Responsible AI  
-- Data Ethics for Generative AI  
+Currently Exploring
+Agentic AI Systems
+Multi-Agent Workflows
+LLMOps
+AI Orchestration
+Enterprise AI Infrastructure
+Connect With Me
 
----
-
-📫 **Reach me:** [priyankkaachoudhuryy15@gmail.com](mailto:priyankkaachoudhuryy15@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/priyanka-choudhury-124b45101](https://www.linkedin.com/in/priyanka-choudhury-124b45101)
+LinkedIn: linkedin.com/in/priyanka-choudhury-124b45101 GitHub: github.com/priyanka1502-cod3
